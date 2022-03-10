@@ -6,7 +6,7 @@ Description: 'Get started with maticjs'
 
 # Get Started
 
-The `@matic.js` is a javascript library which helps in interacting with the various components of Matic Network.
+The `@maticnetwork/maticjs` is a javascript library which helps in interacting with the various components of Matic Network.
 
 In this Get Started tutorial - we will learn about how we can setup and interact with the POS bridge.
 
